@@ -25,19 +25,6 @@ rl.on('close',()=>{
 } )
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 //Leitura simples de arquivos
 /*
 fs.readFile('home.txt', (err,data)=>{
